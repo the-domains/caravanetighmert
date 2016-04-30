@@ -1,7 +1,7 @@
 name: caravanetighmert
 favicon: null
-layout_spectrum: 0.919180718017742
-typography_spectrum: 0.8070492332335562
+layout_spectrum: 0
+typography_spectrum: 0.18429
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.1363590443506837
-  lightness: 0.6583168623037636
-  saturation: 0.3656619831454009
-  rhythmicContrast: 0.060141524067148566
+    - '#44396a'
+    - '#e6ad50'
+    - '#22c7e6'
+    - '#e7283e'
+    - '#fffcff'
+  brandStrength: 1
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
