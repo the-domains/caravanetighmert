@@ -1,44 +1,44 @@
-name: caravanetighmert
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/84bb184d-043c-4be4-abc1-f84bf9a523e5.png'
-layout_spectrum: 0.26467
-typography_spectrum: 0.18429
 title: FESTIVAL CARAVANE DE TIGHMERT 2016
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-author:
-  email: caravanetighmert@gmail.com
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ff4dede-6fd6-4ca0-9c8c-7d78d8c8bddc.png'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 1
+  brandStrength: 1
+  rhythmicContrast: 1
   brandColors:
     - '#160c25'
     - '#cecece'
     - '#645f5b'
     - '#c100ba'
     - '#029999'
-  brandStrength: 1
   lightness: 0
-  saturation: 1
-  rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/84bb184d-043c-4be4-abc1-f84bf9a523e5.png'
+author:
+  email: caravanetighmert@gmail.com
+name: caravanetighmert
+opengraph:
+  image: null
+  type: null
+  appId: null
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ff4dede-6fd6-4ca0-9c8c-7d78d8c8bddc.png'
+typography_spectrum: 0.18429
+layout_spectrum: 1
