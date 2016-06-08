@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 1
+  saturation: 0
   brandStrength: 1
-  rhythmicContrast: 1
+  lightness: 0
   brandColors:
     - '#160c25'
     - '#cecece'
     - '#645f5b'
     - '#c100ba'
     - '#029999'
-  lightness: 0
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,10 +31,10 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/84bb184d-043c-4be4-abc1-f84bf9a523e5.png'
+name: caravanetighmert
 author:
   email: caravanetighmert@gmail.com
-name: caravanetighmert
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/84bb184d-043c-4be4-abc1-f84bf9a523e5.png'
 opengraph:
   image: null
   type: null
