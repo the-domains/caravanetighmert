@@ -1,5 +1,6 @@
 name: caravanetighmert
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/84bb184d-043c-4be4-abc1-f84bf9a523e5.png'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/84bb184d-043c-4be4-abc1-f84bf9a523e5.png
 layout_spectrum: 0.50091
 typography_spectrum: 0.18429
 title: FESTIVAL CARAVANE DE TIGHMERT 2016
@@ -17,7 +18,8 @@ collections:
       path: '/:title/'
 author:
   email: caravanetighmert@gmail.com
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ff4dede-6fd6-4ca0-9c8c-7d78d8c8bddc.png'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ff4dede-6fd6-4ca0-9c8c-7d78d8c8bddc.png
 cta:
   domain: null
   bucket: null
@@ -40,5 +42,5 @@ color:
   brandStrength: 0.5
   lightness: 0
   saturation: 1
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5
 purpose: []
