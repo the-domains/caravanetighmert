@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Mohamed Arejdal, Ramia Beladel, M'barek Bouhchichi, Etayeb Nadif, Rachid
   Ouhnni, Abdel Jalil Saouli, Saïd Raïs.
-datePublished: '2016-06-06T18:01:10.115Z'
-dateModified: '2016-06-06T18:00:59.469Z'
+datePublished: '2016-06-09T16:20:01.206Z'
+dateModified: '2016-06-09T16:16:45.365Z'
 title: Artistes visuels 2015
 author: []
 sourcePath: _posts/2016-06-06-artistes-visuels-2015.md
