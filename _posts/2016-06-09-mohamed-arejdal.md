@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'https://vimeo.com/134927467'
-datePublished: '2016-06-09T18:56:08.951Z'
-dateModified: '2016-06-09T18:56:07.845Z'
+datePublished: '2016-06-12T12:25:58.936Z'
+dateModified: '2016-06-12T12:25:37.566Z'
 title: Mohamed Arejdal
 author: []
+sourcePath: _posts/2016-06-09-mohamed-arejdal.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-09-mohamed-arejdal.md
 url: mohamed-arejdal/index.html
 _type: WebPage
 
@@ -22,6 +22,8 @@ _type: WebPage
 https://youtu.be/H5idbCLRyNk
 
 He has worked about the idea of leaving behind a house, a city, a country, a culture, from his own experience, because he left Guelmim when he was 18 years old, illegally, to reach the Canary Islands (Spain). He has looked for abandoned objects in abandoned houses in the oasis, giving them another utility, creating an art installation, claiming for the values of the oasis as a contemporary culture. 
+
+https://vimeo.com/134927467
 
 https://vimeo.com/134927467
 
