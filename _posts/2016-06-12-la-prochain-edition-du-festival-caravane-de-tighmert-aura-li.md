@@ -1,23 +1,23 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: >-
   La prochain édition du festival Caravane de Tighmert aura lieu du 18 au 24
   juillet 2016 dans l'oasis de Tighmert
-datePublished: '2016-06-12T12:29:50.559Z'
-dateModified: '2016-06-12T12:29:16.646Z'
+datePublished: '2016-06-12T12:32:28.869Z'
+dateModified: '2016-06-12T12:32:23.987Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-06-12-la-prochain-edition-du-festival-caravane-de-tighmert-aura-li.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-12-la-prochain-edition-du-festival-caravane-de-tighmert-aura-li.md
-url: la-prochain-edition-du-festival-caravane-de-tighmert-aura-li/index.html
-_type: Article
+_type: Blurb
 
 ---
 La prochain édition du festival Caravane de Tighmert aura lieu du 18 au 24 juillet 2016 dans l'oasis de Tighmert
