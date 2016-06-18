@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'https://vimeo.com/134927467'
-datePublished: '2016-06-12T12:25:58.936Z'
-dateModified: '2016-06-12T12:25:37.566Z'
+datePublished: '2016-06-18T16:15:52.648Z'
+dateModified: '2016-06-12T12:26:08.026Z'
 title: Mohamed Arejdal
 author: []
 sourcePath: _posts/2016-06-09-mohamed-arejdal.md
