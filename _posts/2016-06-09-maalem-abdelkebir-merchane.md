@@ -1,30 +1,30 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: La musique Gnawa
-datePublished: '2016-06-18T16:15:39.163Z'
-dateModified: '2016-06-18T16:15:37.681Z'
+datePublished: '2016-06-18T16:24:53.817Z'
 sourcePath: _posts/2016-06-09-maalem-abdelkebir-merchane.md
+inFeed: false
+authors: []
+hasPage: true
+keywords: []
 author:
   - name: ''
     url: ''
-title: ............................................................
-authors: []
+dateModified: '2016-06-18T16:24:09.397Z'
+title: .
 publisher: null
+description: La musique Gnawa
+inLanguage: null
+inNav: true
 starred: false
 url: maalem-abdelkebir-merchane/index.html
 _type: WebPage
 
 ---
-## ............................................................
-
-## Maâlem Abdelkébir Merchane
+## .
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b31162bc-fa8b-4bb0-b956-21513328a776.jpg)
 
 La musique Gnawa
+
+## Maâlem Abdelkébir Merchane
 
 ## Hossni Boudali
 
