@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[FESTIVAL CARAVANE DE TIGHMERT 2016]]></title>
         <description><![CDATA[FESTIVAL CARAVANE DE TIGHMERT 2016]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/caravanetighmert/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 21:24:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jul 2016 09:59:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/caravanetighmert/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Meryem Jazouli]]></title>
             <description><![CDATA[<article><h1>Meryem Jazouli</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6de81060-0e9a-4b92-8e25-4826797bed26.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6de81060-0e9a-4b92-8e25-4826797bed26.jpg</link>
             <guid isPermaLink="false">5bc40e0c-a89f-4c16-aca4-a8f0be2a2a39</guid>
-            <pubDate>Wed, 29 Jun 2016 21:24:25 GMT</pubDate>
+            <pubDate>Thu, 28 Jul 2016 09:59:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
