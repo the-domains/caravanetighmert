@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-28T10:02:19.892Z'
+datePublished: '2016-07-28T10:03:51.878Z'
 sourcePath: _posts/2016-06-09-mohamed-arejdal.md
 inFeed: false
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: Caravane Tighmert
     url: 'http://vimeo.com/user42314715'
     avatar: {}
-dateModified: '2016-07-28T10:02:19.254Z'
+dateModified: '2016-07-28T10:03:51.192Z'
 title: ............................................................
 publisher: {}
 description: >-
