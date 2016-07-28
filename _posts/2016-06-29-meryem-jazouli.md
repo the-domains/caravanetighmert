@@ -1,18 +1,15 @@
 ---
 author: []
 title: Meryem Jazouli
-dateModified: '2016-07-28T09:59:29.904Z'
-datePublished: '2016-07-28T09:59:30.957Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6de81060-0e9a-4b92-8e25-4826797bed26.jpg
+dateModified: '2016-07-28T10:01:35.814Z'
+datePublished: '2016-07-28T10:01:36.502Z'
 description: ''
 sourcePath: _posts/2016-06-29-meryem-jazouli.md
 publisher: {}
 via: {}
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: meryem-jazouli/index.html
 _type: MediaObject
 
 ---
