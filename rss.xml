@@ -4,7 +4,7 @@
         <description><![CDATA[FESTIVAL CARAVANE DE TIGHMERT 2016]]></description>
         <link>https://thegrid.ai/caravanetighmert/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 18:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 18:07:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/caravanetighmert/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b20ddcc-57b7-4e18-bf9c-04c7ae580201.jpg</link>
             <guid isPermaLink="false">4a8d3fd3-be7b-40d7-9d9a-830a1fb695c2</guid>
             <pubDate>Wed, 03 Aug 2016 17:53:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amine El Gotaibi]]></title>
+            <description><![CDATA[<article><h1>Amine El Gotaibi</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9f8c7ef-e418-4c26-923e-a2a41cf5bd8f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/caravanetighmert/amine-el-gotaibi/index.html</link>
+            <guid isPermaLink="false">3c8537e6-ba80-4dab-9d06-438af7fe10f3</guid>
+            <pubDate>Wed, 03 Aug 2016 18:07:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
