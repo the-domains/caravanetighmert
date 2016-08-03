@@ -1,14 +1,15 @@
 ---
-datePublished: '2016-08-03T18:03:11.557Z'
+datePublished: '2016-08-03T18:07:00.074Z'
+sourcePath: _posts/2016-08-03-amine-el-gotaibi.md
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-03T18:02:57.683Z'
+dateModified: '2016-08-03T18:06:34.737Z'
 title: Amine El Gotaibi
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-08-03-amine-el-gotaibi.md
 url: amine-el-gotaibi/index.html
 _context: 'http://schema.org'
 _type: Article
