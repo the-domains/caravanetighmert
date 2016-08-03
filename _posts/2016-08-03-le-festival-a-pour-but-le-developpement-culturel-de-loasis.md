@@ -1,16 +1,17 @@
 ---
-datePublished: '2016-08-03T17:48:26.828Z'
+datePublished: '2016-08-03T17:55:28.218Z'
+sourcePath: >-
+  _posts/2016-08-03-le-festival-a-pour-but-le-developpement-culturel-de-loasis.md
+inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-03T17:48:26.129Z'
+dateModified: '2016-08-03T17:55:27.578Z'
 title: ''
 publisher: {}
 description: >-
   Le festival a pour but le développement culturel de l’oasis, grâce aux
   artistes visuels qui travailleront sur les cultures oasiennes.
-sourcePath: >-
-  _posts/2016-08-03-le-festival-a-pour-but-le-developpement-culturel-de-loasis.md
-hasPage: true
 starred: false
 url: le-festival-a-pour-but-le-developpement-culturel-de-loasis/index.html
 _context: 'http://schema.org'
