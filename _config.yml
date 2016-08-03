@@ -28,13 +28,7 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: arts vivants 2016
-    id: 5bc40e0c-a89f-4c16-aca4-a8f0be2a2a39
-    type: content
-  - name: arts visuels 2016
-    id: c054c91a-0d53-456a-b07a-53ac200277eb
-    type: content
+navigation: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/84bb184d-043c-4be4-abc1-f84bf9a523e5.png
 collections:
