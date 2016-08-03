@@ -28,7 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation: []
+navigation:
+  - name: arts visuels 2016
+    id: 07c5e079-2b5b-4b39-9913-35db2ab3ce9c
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/84bb184d-043c-4be4-abc1-f84bf9a523e5.png
 collections:
