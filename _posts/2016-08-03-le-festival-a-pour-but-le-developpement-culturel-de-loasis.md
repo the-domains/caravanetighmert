@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-03T17:55:28.218Z'
+datePublished: '2016-08-03T18:06:47.303Z'
 sourcePath: >-
   _posts/2016-08-03-le-festival-a-pour-but-le-developpement-culturel-de-loasis.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-03T17:55:27.578Z'
+dateModified: '2016-08-03T18:06:46.657Z'
 title: ''
 publisher: {}
 description: >-
